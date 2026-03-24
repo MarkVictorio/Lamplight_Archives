@@ -1,0 +1,62 @@
+# Lamplight Archives
+
+Notes and canon for **The Broken Crown**, a gothic investigative Dungeons & Dragons campaign.
+
+## Repository map
+
+Campaign root: [`the_broken_crown/`](the_broken_crown/)
+
+```text
+the_broken_crown/
+├── 00_core/                 — Campaign bible: pitch, tone, central pillars
+├── 01_world/                — Setting: cosmology, culture, religion, history
+├── 02_factions/             — Organizations, governments, orders, houses
+├── 03_npcs/                 — Named characters and stat or role notes
+├── 04_locations/            — Places, maps, room keys
+├── 05_quests/               — Plot threads, arcs, hooks
+├── 06_sessions/             — Session recaps, prep, handouts
+├── 07_player_characters/    — PCs: sheets, goals, secrets (player/DM split as you prefer)
+├── 08_items/                — Treasure, artifacts, notable gear
+├── 09_secrets/              — DM-only reveals, twists, unrevealed truth
+├── 10_rules_reference/      — House rules, DC notes, optional RAW excerpts
+└── _scratch/                — Drafts and fragments; promote when stable
+```
+
+## Canon index
+
+| Path | What it covers | Canon |
+|------|----------------|--------|
+| [the_broken_crown/00_core/Overview.md](the_broken_crown/00_core/Overview.md) | Campaign overview, Crown and Thralls, tone, themes, central mystery | Canon — core table reference |
+| [the_broken_crown/01_world/Religions of the Kingdom.md](the_broken_crown/01_world/Religions%20of%20the%20Kingdom.md) | Major faiths and practices as they appear in the kingdom | Canon — broadly player-facing |
+| [the_broken_crown/01_world/The Ascended Pantheon.md](the_broken_crown/01_world/The%20Ascended%20Pantheon.md) | The Ascended: pantheon structure and ascended identities behind the faiths | Canon — deep / scholarly lore |
+| [the_broken_crown/02_factions/Circle of the Spire.md](the_broken_crown/02_factions/Circle%20of%20the%20Spire.md) | Post-Crown governing body and the five noble houses | Canon |
+
+### NPC sheets (`03_npcs/`)
+
+Extracted from existing lore for quick reference; each file links back to its source document.
+
+| File | Subject |
+|------|---------|
+| [alistair_ravencroft.md](the_broken_crown/03_npcs/alistair_ravencroft.md) | Lord Justiciar, House Ravencroft |
+| [elowen_valemyr.md](the_broken_crown/03_npcs/elowen_valemyr.md) | Lady Archivist, House Valemyr |
+| [odran_greifenhald.md](the_broken_crown/03_npcs/odran_greifenhald.md) | High Marshal, House Greifenhald |
+| [lucien_ashcombe.md](the_broken_crown/03_npcs/lucien_ashcombe.md) | Lord Regent, House Ashcombe |
+| [maelis_demerin.md](the_broken_crown/03_npcs/maelis_demerin.md) | Chronicler, House Demerin |
+| [pale_ascendant.md](the_broken_crown/03_npcs/pale_ascendant.md) | Sealed vampiric entity; Thrall binding (deep lore) |
+| [aurelion_first_flame.md](the_broken_crown/03_npcs/aurelion_first_flame.md) | Ascended — Last Ember |
+| [elyra_weeping_mother.md](the_broken_crown/03_npcs/elyra_weeping_mother.md) | Ascended — Weeping Mother |
+| [kael_thornborn.md](the_broken_crown/03_npcs/kael_thornborn.md) | Ascended — Thorn Father |
+| [morvain_pale_shepherd.md](the_broken_crown/03_npcs/morvain_pale_shepherd.md) | Ascended — Pale Shepherd |
+| [valtheris_crowned_witness.md](the_broken_crown/03_npcs/valtheris_crowned_witness.md) | Ascended — Crowned Witness |
+| [seraphine_the_silent.md](the_broken_crown/03_npcs/seraphine_the_silent.md) | Ascended — Silent Choir |
+| [imperion_gilded_throne.md](the_broken_crown/03_npcs/imperion_gilded_throne.md) | Ascended — Gilded Throne |
+| [nyxara_debt_unending.md](the_broken_crown/03_npcs/nyxara_debt_unending.md) | Ascended — Black Tithe |
+| [nerscylla_veiled_night.md](the_broken_crown/03_npcs/nerscylla_veiled_night.md) | Ascended — Veiled Night (rare / forbidden) |
+
+Update this table when you add or move documents.
+
+## Conventions
+
+- File new material under the numbered folder that best matches its job; avoid dumping everything in `00_core`.
+- Use `_scratch` for work in progress, then move files into a permanent folder when the content is stable.
+- For a second campaign later, add a sibling folder next to `the_broken_crown/` (for example `another_campaign/`) with the same internal numbering if you want a consistent layout.
