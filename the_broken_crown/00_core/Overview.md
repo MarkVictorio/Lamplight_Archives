@@ -21,6 +21,14 @@ The truth of what the Crown was, why Thralls were created, and who is responsibl
 
 ---
 
+# Kingdom & geography
+
+The realm is **Aaldharyn**: a fractured kingdom whose strongest fortresses sit on a hidden Crown-era lattice—**control**, **origin**, **ritual**, **containment**, **memory**, and **narrative stability**—maintained (and now failing) through the Great Holds and the [Circle of the Spire](../02_factions/Circle%20of%20the%20Spire.md). The frontier town of **Lamplight** is one of the first places where that system visibly frays.
+
+Full atlas-style lore: [Aaldharyn World Lore](../01_world/Aaldharyn_World_Lore.md).
+
+---
+
 # Setting Tone
 
 ## Gothic Mystery

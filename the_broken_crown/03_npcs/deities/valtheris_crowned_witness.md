@@ -4,7 +4,7 @@
 **Modern faith:** The Crowned Witness — domains Knowledge, Order  
 **Symbols:** Mirrored crowns, books, quills
 
-**Source:** [The Ascended Pantheon](../01_world/The%20Ascended%20Pantheon.md)
+**Source:** [The Ascended Pantheon](../../01_world/The%20Ascended%20Pantheon.md)
 
 ## Appearance (mythic)
 

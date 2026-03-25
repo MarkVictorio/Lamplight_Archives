@@ -3,7 +3,7 @@
 **Type:** Mortal — noble, head of house  
 **Title:** Lord Regent, House Ashcombe (The Blood That Remembers)
 
-**Source:** [Circle of the Spire](../02_factions/Circle%20of%20the%20Spire.md)
+**Source:** [Circle of the Spire](../../02_factions/Circle%20of%20the%20Spire.md)
 
 ## Snapshot
 

@@ -4,7 +4,7 @@
 **Modern faith:** The Silent Choir — domains Twilight, Knowledge  
 **Symbols:** Sealed lips, blank scrolls, candles
 
-**Source:** [The Ascended Pantheon](../01_world/The%20Ascended%20Pantheon.md)
+**Source:** [The Ascended Pantheon](../../01_world/The%20Ascended%20Pantheon.md)
 
 ## Appearance (mythic)
 

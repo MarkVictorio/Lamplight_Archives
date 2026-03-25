@@ -192,3 +192,9 @@ This document represents the **publicly understood structure** of the Circle of 
 
 Hidden truths, secret alliances, and forbidden knowledge should be layered on top of this foundation during play.
 
+---
+
+## Geography
+
+Each house’s seat and sphere are developed in [Aaldharyn World Lore](../01_world/Aaldharyn_World_Lore.md) (Great Holds, secondary regions, hidden infrastructure) and in per-house notes under [`01_world/circle_of_the_spire/`](../01_world/circle_of_the_spire/README.md).
+

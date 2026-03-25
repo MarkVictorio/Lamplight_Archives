@@ -4,7 +4,7 @@
 **Modern faith:** The Pale Shepherd — domains Death, Grave  
 **Symbols:** Lanterns, shepherd crooks, grave markers
 
-**Source:** [The Ascended Pantheon](../01_world/The%20Ascended%20Pantheon.md)
+**Source:** [The Ascended Pantheon](../../01_world/The%20Ascended%20Pantheon.md)
 
 ## Appearance (mythic)
 
@@ -20,4 +20,4 @@ Death, burial, guidance of souls, peaceful passage. Funeral priests and grave wa
 
 ## At the table
 
-Rites for the dead, hauntings, “proper rest”; ties to kingdom anxiety that **the dead stay down** ([Religions of the Kingdom](../01_world/Religions%20of%20the%20Kingdom.md)).
+Rites for the dead, hauntings, “proper rest”; ties to kingdom anxiety that **the dead stay down** ([Religions of the Kingdom](../../01_world/Religions%20of%20the%20Kingdom.md)).

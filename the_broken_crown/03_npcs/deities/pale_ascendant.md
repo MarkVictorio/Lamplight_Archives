@@ -1,9 +1,9 @@
 # The Pale Ascendant
 
 **Type:** Entity — vampiric power (sealed)  
-**Also referenced as:** figure to whom **Thralls** may be ritually bound ([Overview](../00_core/Overview.md))
+**Also referenced as:** figure to whom **Thralls** may be ritually bound ([Overview](../../00_core/Overview.md))
 
-**Sources:** [Overview](../00_core/Overview.md), [Circle of the Spire](../02_factions/Circle%20of%20the%20Spire.md)
+**Sources:** [Overview](../../00_core/Overview.md), [Circle of the Spire](../../02_factions/Circle%20of%20the%20Spire.md)
 
 ## Snapshot
 

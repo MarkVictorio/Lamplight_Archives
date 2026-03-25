@@ -4,7 +4,7 @@
 **Modern faith:** Rare or forbidden — domains Darkness, Blood, Undeath  
 **Symbols:** Blood crescents, spider-like sigils, chalices
 
-**Source:** [The Ascended Pantheon](../01_world/The%20Ascended%20Pantheon.md)
+**Source:** [The Ascended Pantheon](../../01_world/The%20Ascended%20Pantheon.md)
 
 ## Appearance (mythic)
 

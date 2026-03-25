@@ -3,7 +3,7 @@
 **Type:** Mortal — noble, head of house  
 **Title:** Lady Archivist, House Valemyr (Keepers of What Remains)
 
-**Source:** [Circle of the Spire](../02_factions/Circle%20of%20the%20Spire.md)
+**Source:** [Circle of the Spire](../../02_factions/Circle%20of%20the%20Spire.md)
 
 ## Snapshot
 

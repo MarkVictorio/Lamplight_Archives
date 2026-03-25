@@ -3,7 +3,7 @@
 **Type:** Mortal — noble, head of house  
 **Title:** High Marshal, House Greifenhald (The Shield of the Kingdom)
 
-**Source:** [Circle of the Spire](../02_factions/Circle%20of%20the%20Spire.md)
+**Source:** [Circle of the Spire](../../02_factions/Circle%20of%20the%20Spire.md)
 
 ## Snapshot
 

@@ -4,7 +4,7 @@
 **Modern faith:** The Gilded Throne — domains War, Order  
 **Symbols:** Golden thrones, crossed swords, crowns
 
-**Source:** [The Ascended Pantheon](../01_world/The%20Ascended%20Pantheon.md)
+**Source:** [The Ascended Pantheon](../../01_world/The%20Ascended%20Pantheon.md)
 
 ## Appearance (mythic)
 
