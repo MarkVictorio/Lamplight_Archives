@@ -2,6 +2,10 @@
 
 ## Paladin-Scribe of the Argent Veil
 
+| | |
+|:---|:---|
+| **Stature** | 5'11" |
+
 This document outlines knowledge Elliot would reasonably possess based
 on his training, research, and service within the **Argent Veil**.
 
