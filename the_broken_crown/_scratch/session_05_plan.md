@@ -334,3 +334,39 @@ Pick one (you can combine).
 - Ansel: compulsion worse after the square?  
 - Which faction “owns” the party’s debt now?  
 - When play is canon, add Session 5 to [`../06_sessions/session_ledger.md`](../06_sessions/session_ledger.md) and write `session_05.md` if you keep full notes.
+
+
+
+
+### Some Blackthornes may appear:
+    The Deep Code (Only higher-ranking agents know)
+
+    Phrase:
+
+      “What stands above judgment?”
+
+    Response:
+
+      “Nothing that lives.”
+
+    Implication:
+
+    Even nobles, even houses, even kings
+    This is dangerous knowledge. Use it sparingly
+
+    The Executioner’s Code (Used before action)
+
+    Phrase:
+
+      “Is the sentence written?”
+
+    Response:
+
+      “It awaits its hand.”
+
+    Hidden Layer:
+
+    “Written” = decree from Ravencroft
+    “Hand” = the Blackthorne agent present
+
+    This one is colder. It implies someone nearby is about to die.

@@ -10,18 +10,21 @@ Canonized summaries from table play. Player-facing names and spellings are prese
 | 2 | [session_02.md](session_02.md) | Limuelle, blood moon, Sunstone, Cliff / **Eldros** as handsome man in 301 |
 | 3 | [session_03.md](session_03.md) | Exanima upgrade, Cliff’s room, Eldros bargain, mausoleum New Blood |
 | 4 | [session_04.md](session_04.md) | Wanted status, Seris, Eldros’ safehouse, sewers, Sir Caldric |
+| 5 | [session_05.md](session_05.md) | Soulstone arrival, gallows rescue, Alya anomaly, Seaghdha’s Eldros pact |
 
 ---
 
-## Running threads (as of Session 4)
+## Running threads (as of Session 5)
 
-- **Sigmar** taken by New Blood; **Seraphine** / seal / **Mistress of Val’wrath** status unclear after sewers.
-- **Eldros** motives vs **New Bloods** / **Nerscylla**; coffin moved then **emptied** at safehouse.
-- **Blood moon** and failed sunrise — ongoing supernatural weather.
-- **Soulstone** next; **Erendor** death to follow up.
+- **Sigmar** survives the gallows and is smuggled out; **Seraphine** / seal / **Mistress of Val’wrath** status remains unclear.
+- **Eldros** motives vs **New Bloods** / **Nerscylla**; he can now create Thralls **intentionally** through direct pact.
+- **Seaghdha** is Eldros’s first confirmed **voluntary / active Thrall**; soul-binding, control limits, and consequences remain unclear.
+- **Alya** introduces a memory / perception anomaly; her nature and allegiance are unclear.
+- **Blood moon** breaks and the sun returns, but the wider supernatural crisis and its cause remain unresolved.
+- **Soulstone** / **Erendor** remain immediate follow-up threads, now with the city openly destabilized.
 - **Ansel** carrying **Blessing of Aurelion** relic; compulsion unknown scope.
 - **Exanima** wrist device + **Solar Conduit**; cube lineage.
-- **House Ashcomb** (old vs new sigils), **Ravencroft**, **Argent Veil** scribes — political knot in Sunstone.
+- **House Ashcomb** (old vs new sigils), **Ravencroft**, **Argent Veil** scribes, and **Blackthorne** pressure extend the political knot beyond Sunstone.
 
 ---
 
