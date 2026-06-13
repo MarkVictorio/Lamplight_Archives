@@ -117,6 +117,8 @@ Tension between **divine purpose** and **human grief**.
 
 Caldrick is **master** (patron / mentor) to **Elliot**, a scribe-knight of the Argent Veil.
 
+**Erendor** was Caldrick's **first apprentice** — found alive beneath Sunstone as a **forced lycanthrope** ([Erendor](erendor.md); [Session 6](../../06_sessions/session_06.md) onward). Elliot has been caring for him; reunion with Caldrick is an open wound.
+
 ### Narrative role
 
 - Mentor, patron, possible **manipulator**  

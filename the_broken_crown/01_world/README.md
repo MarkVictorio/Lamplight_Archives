@@ -22,6 +22,7 @@ Places **not** tied to a single ruling house. Add new neutral or contested sites
 | [mount_embermaw.md](mount_embermaw.md) | Volcanic region; Temples of the Ascended |
 | [iron_mire_valley.md](iron_mire_valley.md) | Iron-Mire Valley; Fort Bladewarden |
 | [glasvale.md](glasvale.md) | Isolated landmass; divergent memory |
+| [oltheros.md](oltheros.md) | Lost pre-kingdom; hawk heraldry; Devon origin thread (Session 8) |
 
 **Note:** [Aaldharyn_World_Lore.md](Aaldharyn_World_Lore.md) narrates **Argent Vale** and **Mistforge Archive** alongside other secondary regions; their working files still live under [circle_of_the_spire/valemyr/](circle_of_the_spire/valemyr/) and [circle_of_the_spire/demerin/](circle_of_the_spire/demerin/) because those regions are House Valemyr / House Demerin turf.
 

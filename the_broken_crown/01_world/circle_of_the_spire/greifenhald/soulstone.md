@@ -62,3 +62,15 @@ If Ashcombe succeeds in awakening or controlling what lies beneath the kingdom,
 Soulstone will be the first line of defense.
 
 And possibly the first to fall.
+
+---
+
+## Soul Cairn
+
+The largest graveyard in the southern region. **Demerin researchers** have established a presence on site (at least a month planned as of [Session 8](../../06_sessions/session_08.md)).
+
+From play:
+
+- **Two additional armories** exist within Soul Cairn (beyond sites already encountered).
+- **Festival of the Dead** — relatively young festival (~30–40 years); displays relics tied to the **Last Vampire** ([Session 8](../../06_sessions/session_08.md)).
+- Coffins emptied from Soul Cairn were found in the hidden Sunstone ritual chamber ([Session 7](../../06_sessions/session_07.md)).

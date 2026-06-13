@@ -7,7 +7,7 @@
 **Condition:** Broken — scattered pieces; full form unknown in the modern age  
 **Public footprint:** Rarely named aloud; records **suppressed**, **edited**, or **lost** with Crown fall  
 
-**Sources:** [Campaign Overview](../00_core/Overview.md) (Crown, Thralls, seals) · [Circle of the Spire](../02_factions/Circle%20of%20the%20Spire.md) (post-Crown custody rumors) · Play: [Session 1](../06_sessions/session_01.md), [Session 3](../06_sessions/session_03.md)
+**Sources:** [Campaign Overview](../00_core/Overview.md) (Crown, Thralls, seals) · [Circle of the Spire](../02_factions/Circle%20of%20the%20Spire.md) (post-Crown custody rumors) · Play: [Session 1](../06_sessions/session_01.md), [Session 3](../06_sessions/session_03.md), [Session 6](../06_sessions/session_06.md), [Session 8](../06_sessions/session_08.md)
 
 ---
 
@@ -52,6 +52,13 @@ A **fragment** is any **physically distinct** piece still carrying **metal, insc
 | Piece | Where acquired | Notes |
 |:------|:-----------------|:------|
 | **Broken silver blade** | Lamplight tavern basement, Session 1 ([recap](../06_sessions/session_01.md)) | Found near the **awakening circle** and **shattered blade** in the ritual space; treated as a **fragment of King’s Mercy**. |
+| **Construction / historical records** | Hidden forge beneath Sunstone, Session 6 ([recap](../06_sessions/session_06.md)) | ~10 pages on Exanima construction plus **King's Mercy** historical notes in a chest. |
+| **Demerin schematics + elven scholar notes** | Soulstone ball aftermath, Session 8 ([recap](../06_sessions/session_08.md)) | Blade **predates** first King of Aaldharyn; **vampiric dust** required for reforging; **diamond-shaped gemstone** slot still empty. |
+
+### Missing piece (Session 8)
+
+Demerin researchers confirm the sword remains **incomplete**. A **clear diamond-shaped gemstone** occupied the final slot. Without it, full restoration is impossible. **Record Keeper Joren** offered future assistance at **Achroma** (*"just ask for Joren"*).
+
 
 ### Hooks for other pieces
 

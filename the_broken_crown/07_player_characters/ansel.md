@@ -17,5 +17,9 @@
 - **Tabernacle:** The tabernacle **speaks** to Ansel (session summary) ([session 04](../06_sessions/session_04.md)).
 - **Rites:** Performed last rites with **Sir Caldric** and **Elliot**; **voices grew louder** in Ansel’s head ([session 04](../06_sessions/session_04.md)).
 - **Loot split:** Received coin from the Seris haul; **abstained** on part of the split ([session 04](../06_sessions/session_04.md)).
+- **Sunstone underground:** Received **15 temporary HP** blessing from **Keeper Halbet Rune** until next long rest; approaching rank of **Warden of Ash** ([session 07](../06_sessions/session_07.md)).
+- **Blackthorne:** **Yselle Blackthorne** gifted a **Sending Stone** in exchange for Scarlet Bramble materials ([session 07](../06_sessions/session_07.md)).
+- **Ballroom fight:** **800 crowns** reward from the High Marshal for defending the gathering ([session 08](../06_sessions/session_08.md)).
+- **Sacred task:** Halbet instructed investigation of **Last Vampire** relics at the **Festival of the Dead** (Soul Cairn, ~5 days); destroy if necessary — **High Marshal** opposes destruction ([session 08](../06_sessions/session_08.md)).
 
 **Ledger:** [Session ledger](../06_sessions/session_ledger.md).

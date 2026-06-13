@@ -33,6 +33,13 @@ the_broken_crown/
 | [the_broken_crown/01_world/The Ascended Pantheon.md](the_broken_crown/01_world/The%20Ascended%20Pantheon.md) | The Ascended: pantheon structure and ascended identities behind the faiths | Canon — deep / scholarly lore |
 | [the_broken_crown/02_factions/Circle of the Spire.md](the_broken_crown/02_factions/Circle%20of%20the%20Spire.md) | Post-Crown governing body and the five noble houses | Canon |
 
+### Sessions (`06_sessions/`)
+
+| Path | What it covers |
+|------|----------------|
+| [session_ledger.md](the_broken_crown/06_sessions/session_ledger.md) | Canon index of played sessions and running threads |
+| [session_01.md](the_broken_crown/06_sessions/session_01.md) – [session_08.md](the_broken_crown/06_sessions/session_08.md) | Full session recaps (nav links between files) |
+
 ### NPC sheets (`03_npcs/`)
 
 Extracted from existing lore for quick reference; each file links back to its source document.
@@ -48,6 +55,9 @@ Extracted from existing lore for quick reference; each file links back to its so
 | [maelis_demerin.md](the_broken_crown/03_npcs/characters/maelis_demerin.md) | Chronicler, House Demerin |
 | [caldrick_vane.md](the_broken_crown/03_npcs/characters/caldrick_vane.md) | Ser Caldrick Vane — Argent Veil; Newblood vampire (GM) |
 | [eldros_valgrim.md](the_broken_crown/03_npcs/characters/eldros_valgrim.md) | Crown-era Thrall (anomalous authority); late-game lore |
+| [erendor.md](the_broken_crown/03_npcs/characters/erendor.md) | Caldrick's first apprentice; forced lycanthrope; Sessions 6–8 |
+| [record_keeper_jorenfeld.md](the_broken_crown/03_npcs/characters/record_keeper_jorenfeld.md) | Demerin researcher; Iron Guardians; Exanima / Achroma |
+| [seraph_ashcombe.md](the_broken_crown/03_npcs/characters/seraph_ashcombe.md) | Unverified noble at Soulstone ball; Session 7 |
 | [seris_thorneveil.md](the_broken_crown/03_npcs/characters/seris_thorneveil.md) | Hunter; Sunstone Session 4 — Ravencroft/Ashcomb hooks, Caldric clash |
 
 **Deities & world-scale powers** (`03_npcs/deities/`)
@@ -71,7 +81,7 @@ Update this table when you add or move documents.
 
 | File | Subject |
 |------|---------|
-| [the_kings_mercy.md](the_broken_crown/08_items/the_kings_mercy.md) | Shattered Crown-era conquest blade; fragmented, tainted history; Session 1 shard |
+| [the_kings_mercy.md](the_broken_crown/08_items/the_kings_mercy.md) | Shattered Crown-era conquest blade; Sessions 1, 6, 8 — records, missing gemstone |
 
 ## Conventions
 

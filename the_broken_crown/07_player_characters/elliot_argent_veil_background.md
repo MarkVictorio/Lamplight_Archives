@@ -246,3 +246,16 @@ when they do**.
 
 And sometimes the line between monster and legend is thinner than anyone
 would like to believe.
+
+---
+
+# From play (session notes)
+
+Canonized beats beyond player-knowledge background. See [session ledger](../06_sessions/session_ledger.md).
+
+- **Underground:** Returned to Sunstone sewers with **Ansel**; found hidden Demerin facility ([session 06](../06_sessions/session_06.md)).
+- **Erendor:** Subdued captive lycanthrope; prevented his **suicide** during second transformation; ongoing care and **stabilization bracers** from Argent Vale ([session 06](../06_sessions/session_06.md)–[session 08](../06_sessions/session_08.md)).
+- **Ritual work:** Identified and helped dismantle advanced **vampiric ritual circle** with **Ansel** and **Exanima** ([session 07](../06_sessions/session_07.md)).
+- **Noble ball:** Spread warnings about vampire infiltration among nobility ([session 07](../06_sessions/session_07.md)).
+- **Bram:** Present when **Bram Blackthorne** was killed and later **revived**; heard Bram's **Silent Choir** afterlife account ([session 08](../06_sessions/session_08.md)).
+- **Reward:** **800 crowns** from the High Marshal after ballroom defense ([session 08](../06_sessions/session_08.md)).

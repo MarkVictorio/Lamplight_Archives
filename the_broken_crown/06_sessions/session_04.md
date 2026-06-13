@@ -1,6 +1,6 @@
 # Session 4 — Wanted, Sewers & Caldric
 
-[← Session 3](session_03.md) · [Session ledger](session_ledger.md)
+[← Session 3](session_03.md) · [Session ledger](session_ledger.md) · [Session 5 →](session_05.md)
 
 ---
 

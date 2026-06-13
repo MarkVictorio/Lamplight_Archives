@@ -200,5 +200,10 @@ Exanima embodies:
 - **Social:** Talked **Seris Thorneveil** down mid-fight; accepted **crimson cube** from **Séaghdha** ([session 04](../06_sessions/session_04.md)).
 - **Combat / loot:** Deflected hatchet aimed at **Devon**; kept **longsword** with **spider-like hilt**; took **three silver ingots** from safehouse service area; **20 Crown-era mint crowns** found ([session 04](../06_sessions/session_04.md)).
 - **Ongoing:** Wrist device and cube lineage; relic **glow** noted after Session 4 ([session 04](../06_sessions/session_04.md)).
+- **Sunstone facility:** Received **Exanima construction manual** (Old Common) from Devon; examined **Orins** — one coin bears a **child** resembling Exanima, predating modern coinage ([session 07](../06_sessions/session_07.md)).
+- **Ritual absorption:** With **Elliot** and **Ansel**, dismantled Sunstone ritual circle; magic hardened into a **ruby-like construct** absorbed into wrist device ([session 07](../06_sessions/session_07.md)).
+- **Demerin interest:** **Jorenfeld** identified Exanima as **"defective,"** creating unintended memories; offered **Achroma** access and a **communication device** ([session 07](../06_sessions/session_07.md)–[session 08](../06_sessions/session_08.md)).
+- **Ballroom:** Artifact reacted to floor **ritual circle**; party learned circles link transport, resurrection, and **Nerscylla** communion ([session 08](../06_sessions/session_08.md)).
+- **Reward:** **800 crowns** from the High Marshal after ballroom vampire attack ([session 08](../06_sessions/session_08.md)).
 
 **Ledger:** [Session ledger](../06_sessions/session_ledger.md).

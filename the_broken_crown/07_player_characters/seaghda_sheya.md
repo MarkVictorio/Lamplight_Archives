@@ -42,3 +42,7 @@ Canonized beats; spellings follow the [session ledger](../06_sessions/session_le
 - **Sunstone:** Fought **Seris Thorneveil**; Séaghdha was **downed**; **Exanima** negotiated a truce; Seris **stabilized** Séaghdha and offered a **potion** to revive her ([session 04](../06_sessions/session_04.md)).
 - **Relic beat:** Gave the **crimson cube** to **Exanima**; it synced to Exanima’s wrist ([session 04](../06_sessions/session_04.md)).
 - **Aftermath:** Told **Devon** the **eyes moved** on a corpse above ([session 04](../06_sessions/session_04.md)).
+- **Wanted status:** No longer considered a wanted man in Sunstone ([session 06](../06_sessions/session_06.md)).
+- **Underground:** Took **Scroll of Hold Person**; explored facility as **rat**; healed **Erendor** for questioning; recognized **Scarlet Bramble crown** imagery (not a holy symbol of his order) ([session 06](../06_sessions/session_06.md)).
+- **Rituals:** Keeps **bald vampire's journal** (New Blood procedures, **Nerscylla** contact); ritual circle in final chamber **called** to him but could not be condensed to bloodstone ([session 07](../06_sessions/session_07.md)).
+- **Ball / aftermath:** Recovered **Ashcombe necklace** (gold, amethyst) from escaped vampire; shared **King's Mercy** notes with Demerin scholars; **Identify** on ballroom circle revealed transport, resurrection, and communion functions ([session 08](../06_sessions/session_08.md)).

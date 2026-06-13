@@ -1,6 +1,6 @@
 # Session 5 — Soulstone, The Gallows & Eldros Pact
 
-[← Session 4](session_04.md) · [Session ledger](session_ledger.md)
+[← Session 4](session_04.md) · [Session ledger](session_ledger.md) · [Session 6 →](session_06.md)
 
 ---
 

@@ -18,6 +18,10 @@ Unassuming; rarely takes sides openly. Known for **almost unnatural memory** and
 
 - **Control vs balance:** Valemyr’s hoard of knowledge vs Demerin’s role in which story officially coheres.
 
+## From play
+
+- [Session 7](../../06_sessions/session_07.md): Found **no records** supporting **Seraph Ashcombe's** claimed Ashcombe lineage at the Soulstone noble ball.
+
 ## At the table
 
 - Ideal NPC to deliver **contradictions** in the record without picking a house loudly.
