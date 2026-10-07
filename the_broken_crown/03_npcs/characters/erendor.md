@@ -37,6 +37,12 @@ From [Session 8](../../06_sessions/session_08.md):
 - **Argent Vale** provided **stabilization bracers** (difficult to craft) to help maintain sanity during transformation.
 - Purification of corrupted souls is **possible** at **Argent Vale** only — dangerous, possibly **fatal**, closely guarded knowledge.
 
+From [Sessions 11–16](../../06_sessions/session_11.md):
+
+- Transformation **worsened**; party continued seeking ways to preserve his identity.
+- **Loretta** opened a sewer route at cost of her arm ([session 11](../../06_sessions/session_11.md)).
+- On the Griffin road: found **hidden hole** in mountainside (party sealed it); traveled with party toward **Ebonshard** ([session 16](../../06_sessions/session_16.md)).
+
 ---
 
 ## Identity threads (GM)

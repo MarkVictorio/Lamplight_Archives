@@ -27,6 +27,12 @@ Demerin researchers reported that Devon's remembered homeland gathered **immense
 
 **General Sten Rowe** — a title using **General** rather than modern **High Marshal** — surfaced in Devon's memory while studying the maps ([Session 6](../../06_sessions/session_06.md)). The name and title feel **ancient**.
 
+From [Session 9](../../06_sessions/session_09.md):
+
+- Party recovered **500 Orins** with a **military note** referencing Oltheros and **General Sten Rowe**.
+- **Cloak buttons** on the recovered material match buttons tied to Devon's clothing and memories.
+- At the **Soul Fountain** (Festival of the Dead / Soul Cairn), Devon recalled **marble and limestone**, a great fountain, an **acropolis**, and a **childhood home** — imagery consistent with Oltheros as a lost civilization.
+
 ---
 
 ## At the table

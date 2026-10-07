@@ -53,6 +53,12 @@ The land beneath Soulstone is saturated with death.
 
 It functions as a **containment zone**, holding something that should not move.
 
+From play ([Sessions 10–14](../../06_sessions/session_10.md)):
+
+- Soulstone was built as an **anti-vampire fortress** dating to the **Old Crown** — dedicated containment for threats tied to the **Pale Ascendant**.
+- An **eight-rune** ritual structure surrounds Soulstone; **entrances** appear integrated into the architecture ([Session 14](../../06_sessions/session_14.md)).
+- **Soul Fountain** — major spiritual site near the **Festival of the Dead**; immense concentration of power linked to the dead, **Soul Cairn**, and the **Ascended** ([Session 9](../../06_sessions/session_09.md)).
+
 ---
 
 ## Underlying Risk

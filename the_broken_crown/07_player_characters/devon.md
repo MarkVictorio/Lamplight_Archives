@@ -56,5 +56,11 @@ He is looking for **something** — he does not know what. Some would say boredo
 - **Forge loot:** Recovered ~10 pages on **Exanima construction** and **King's Mercy** records; passed manual to Exanima ([session 06](../06_sessions/session_06.md)).
 - **Memory:** Studying Crown-era maps triggered familiarity near Soulstone — name **General Sten Rowe** surfaced ([session 06](../06_sessions/session_06.md)).
 - **Oltheros:** Demerin scholars identified map symbols as **Oltheros** (hawk heraldry, pre-kingdom); homeland now beneath **Temples of the Ascended** ([session 08](../06_sessions/session_08.md)).
+- **Festival / Soul Fountain:** Recovered **500 Orins** and Oltheros military note (**General Sten Rowe**); cloak buttons match his gear; **Soul Fountain** triggered acropolis / childhood memories ([session 09](../06_sessions/session_09.md)).
+- **Eldros:** Accepted temporary **blood pact** (vial) for limited mental contact ([session 11](../06_sessions/session_11.md)); Eldros still expects him to **retrieve the cape** ([session 12](../06_sessions/session_12.md)).
+- **Arena:** Separated from party in eight-rune transport ([session 14](../06_sessions/session_14.md)).
+- **Road west:** Received **Ashcombe family signet** from **Exanima**; recognizes **Serah'Kiel** / **Crimson Seraph** and **Black Tithe** lore ([session 16](../06_sessions/session_16.md)).
+- **Lucius Ashcombe:** Offered to dispel a ring that would report Lucius's death to the family ([session 17](../06_sessions/session_17.md)).
+- **Marshal confrontation:** Authority figure provoked Devon with exposed blood, suspecting vampirism ([session 17](../06_sessions/session_17.md)).
 
 **Ledger:** [Session ledger — Devon / Aerin](../06_sessions/session_ledger.md).

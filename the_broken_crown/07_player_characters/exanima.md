@@ -205,5 +205,9 @@ Exanima embodies:
 - **Demerin interest:** **Jorenfeld** identified Exanima as **"defective,"** creating unintended memories; offered **Achroma** access and a **communication device** ([session 07](../06_sessions/session_07.md)–[session 08](../06_sessions/session_08.md)).
 - **Ballroom:** Artifact reacted to floor **ritual circle**; party learned circles link transport, resurrection, and **Nerscylla** communion ([session 08](../06_sessions/session_08.md)).
 - **Reward:** **800 crowns** from the High Marshal after ballroom vampire attack ([session 08](../06_sessions/session_08.md)).
+- **Demerin:** Taken for upgrades and examination after the ball ([session 09](../06_sessions/session_09.md)); Grand Archivist warned emergency-only contact ([session 11](../06_sessions/session_11.md)).
+- **Soul Cairn:** Recognized by Pale Shepherd priests as **Iron Guardian**; met **Failsafe** (Third Fleet) ([session 10](../06_sessions/session_10.md)).
+- **Ruins:** **Rubrik** (same batch); fought **Gawain Lionheart** — remembered **Arcthurius Lioneye**; **Proto-King's Mercy** recovered ([session 12](../06_sessions/session_12.md)).
+- **Return:** Captured **Lucius Ashcombe**; scouted ahead and gave Devon **Ashcombe signet** ([session 16](../06_sessions/session_16.md)–[17](../06_sessions/session_17.md)).
 
 **Ledger:** [Session ledger](../06_sessions/session_ledger.md).

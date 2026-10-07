@@ -137,3 +137,22 @@ Eldros is **not** framed as a default dungeon boss. Use him to signal:
 **DM keywords:** Eldros Valgrim · bound Thrall · Crown authority · living seal · forgotten name · architectural binding · suppressed records · pre-Crown entity  
 
 **Play note:** An actor named **Eldros** appears in [Session 3](../../06_sessions/session_03.md) onward — reconcile with this file as **same entity**, **namesake**, or **mask** according to your table’s tier of truth.
+
+---
+
+## From play (session notes)
+
+Table portrayal has outpaced fragmented Crown records. Canon beats to reconcile with lore above:
+
+| Topic | Beat | Session |
+|-------|------|---------|
+| **Lineage** | **Vaelroth Valgrim** is his **father**; aims to break the seal and purge the **Order of the Waning Veil** | [15](../06_sessions/session_15.md) |
+| **Philosophy** | Restore **predator/prey** order — vampires hunt; humans are not a permanent servant stock | [15](../06_sessions/session_15.md) |
+| **Seaghdha** | **Sire → childe** bond; stabilized mid-transformation; blood **token** consumed by Seaghdha | [12](../06_sessions/session_12.md)–[15](../06_sessions/session_15.md) |
+| **Devon** | Temporary **blood pact** (vial); still owes retrieval of a **cape** / Pale Ascendant relic thread | [11](../06_sessions/session_11.md)–[12](../06_sessions/session_12.md) |
+| **Relics** | Takes the **Pale Ascendant Veil** from the party after barrier-sealed talk | [15](../06_sessions/session_15.md) |
+| **Church** | Suspected descendant of the **Last Vampire** | [14](../06_sessions/session_14.md) |
+| **Ascended** | Explained **rite of ascension** — killing an Ascendant may let another replace that seat | [15](../06_sessions/session_15.md) |
+| **Sigmar** | Prior warning that malformation without a master may be irreversible; party later restored Sigmar as **newborn vampire** | [17](../06_sessions/session_17.md) |
+
+**Faction:** [Order of the Waning Veil](../../02_factions/Order%20of%20the%20Waning%20Veil.md)

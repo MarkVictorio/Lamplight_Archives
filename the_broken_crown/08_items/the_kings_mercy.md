@@ -54,6 +54,7 @@ A **fragment** is any **physically distinct** piece still carrying **metal, insc
 | **Broken silver blade** | Lamplight tavern basement, Session 1 ([recap](../06_sessions/session_01.md)) | Found near the **awakening circle** and **shattered blade** in the ritual space; treated as a **fragment of King’s Mercy**. |
 | **Construction / historical records** | Hidden forge beneath Sunstone, Session 6 ([recap](../06_sessions/session_06.md)) | ~10 pages on Exanima construction plus **King's Mercy** historical notes in a chest. |
 | **Demerin schematics + elven scholar notes** | Soulstone ball aftermath, Session 8 ([recap](../06_sessions/session_08.md)) | Blade **predates** first King of Aaldharyn; **vampiric dust** required for reforging; **diamond-shaped gemstone** slot still empty. |
+| **Proto-King's Mercy** | **Gawain Lionheart**'s greatsword after defeat, Session 12 ([recap](../06_sessions/session_12.md)) | Transformed weapon — older lineage of the Mercy than previously understood at table. |
 
 ### Missing piece (Session 8)
 

@@ -26,6 +26,12 @@ From [Session 7](../../06_sessions/session_07.md):
 
 **Related loot (Session 8):** Seaghdha recovered a **gold necklace** with **Ashcombe markings** and an **amethyst** centerpiece from a female vampire who **escaped** the ballroom fight. Connection to Seraph is **unconfirmed**.
 
+From [Session 17](../../06_sessions/session_17.md) (**Lucius Ashcombe**):
+
+- Seraph was a **foundling**, **not** a blood descendant of House Ashcombe.
+- As a child: kept to herself; close to maids and servants; wrote strange things; collected **bird bones** (no known bird lineage — unexplained).
+- Some nobles considered her an **abomination**; Lucius does not know why she represented the house at the noble ball.
+
 ---
 
 ## Identity threads (GM)

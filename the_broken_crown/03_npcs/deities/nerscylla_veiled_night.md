@@ -18,6 +18,11 @@ Noblewoman obsessed with immortality; **forbidden blood ritual** made her eterna
 
 Vampirism, predation, immortality through corruption, hidden aristocracy of monsters. Covens and **blood cults**.
 
+## From play (session notes)
+
+- **Seaghdha**'s vision ([Session 16](../../06_sessions/session_16.md)) showed **Nerscylla before vampirism** (pale skin, black wings, thorn halo) — name **Crimson Seraph** surfaced in the same arc.
+- Table bloodline chart ([campaign state](../../06_sessions/campaign_state_after_session_17.md)): **Eldros** / **Vaelroth** do **not** descend from **Nerscylla**; **New Blood** and Veiled Night traditions remain a **separate** vampire ecology.
+
 ## At the table
 
 DM-layer connective tissue to **vampire** themes and possibly **Pale Ascendant** parallels (separate entities in canon unless you merge at table); not a faith most citizens acknowledge openly.

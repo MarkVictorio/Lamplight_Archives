@@ -32,13 +32,23 @@ the_broken_crown/
 | [the_broken_crown/01_world/Religions of the Kingdom.md](the_broken_crown/01_world/Religions%20of%20the%20Kingdom.md) | Major faiths and practices as they appear in the kingdom | Canon — broadly player-facing |
 | [the_broken_crown/01_world/The Ascended Pantheon.md](the_broken_crown/01_world/The%20Ascended%20Pantheon.md) | The Ascended: pantheon structure and ascended identities behind the faiths | Canon — deep / scholarly lore |
 | [the_broken_crown/02_factions/Circle of the Spire.md](the_broken_crown/02_factions/Circle%20of%20the%20Spire.md) | Post-Crown governing body and the five noble houses | Canon |
+| [Order of the Waning Veil.md](the_broken_crown/02_factions/Order%20of%20the%20Waning%20Veil.md) | Secret order; Pale Ascendant relics; Sessions 10–17 | Canon — table-confirmed |
+
+### Player characters (`07_player_characters/`)
+
+| File | Character |
+|------|-----------|
+| [mal_lucius.md](the_broken_crown/07_player_characters/mal_lucius.md) | Mal Lucius — bounty hunter; joined Session 11 |
+
+*(See `07_player_characters/` for full party sheets.)*
 
 ### Sessions (`06_sessions/`)
 
 | Path | What it covers |
 |------|----------------|
 | [session_ledger.md](the_broken_crown/06_sessions/session_ledger.md) | Canon index of played sessions and running threads |
-| [session_01.md](the_broken_crown/06_sessions/session_01.md) – [session_08.md](the_broken_crown/06_sessions/session_08.md) | Full session recaps (nav links between files) |
+| [session_01.md](the_broken_crown/06_sessions/session_01.md) – [session_17.md](the_broken_crown/06_sessions/session_17.md) | Full session recaps (nav links between files) |
+| [campaign_state_after_session_17.md](the_broken_crown/06_sessions/campaign_state_after_session_17.md) | Post–Session 17 hierarchy, factions, open threads |
 
 ### NPC sheets (`03_npcs/`)
 
@@ -59,6 +69,9 @@ Extracted from existing lore for quick reference; each file links back to its so
 | [record_keeper_jorenfeld.md](the_broken_crown/03_npcs/characters/record_keeper_jorenfeld.md) | Demerin researcher; Iron Guardians; Exanima / Achroma |
 | [seraph_ashcombe.md](the_broken_crown/03_npcs/characters/seraph_ashcombe.md) | Unverified noble at Soulstone ball; Session 7 |
 | [seris_thorneveil.md](the_broken_crown/03_npcs/characters/seris_thorneveil.md) | Hunter; Sunstone Session 4 — Ravencroft/Ashcomb hooks, Caldric clash |
+| [nymera.md](the_broken_crown/03_npcs/characters/nymera.md) | Vampire; Thornveil; stole Crown of Scarlet Bramble (Sessions 10–11) |
+| [evander_holyfield.md](the_broken_crown/03_npcs/characters/evander_holyfield.md) | Order of the Waning Veil operative (Sessions 9–15) |
+| [lucius_ashcombe.md](the_broken_crown/03_npcs/characters/lucius_ashcombe.md) | Ashcombe noble; Seraph / Lord Regent intel (Session 17) |
 
 **Deities & world-scale powers** (`03_npcs/deities/`)
 

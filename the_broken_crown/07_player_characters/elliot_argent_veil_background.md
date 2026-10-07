@@ -259,3 +259,8 @@ Canonized beats beyond player-knowledge background. See [session ledger](../06_s
 - **Noble ball:** Spread warnings about vampire infiltration among nobility ([session 07](../06_sessions/session_07.md)).
 - **Bram:** Present when **Bram Blackthorne** was killed and later **revived**; heard Bram's **Silent Choir** afterlife account ([session 08](../06_sessions/session_08.md)).
 - **Reward:** **800 crowns** from the High Marshal after ballroom defense ([session 08](../06_sessions/session_08.md)).
+- **Night of Lanterns / Church crisis:** Present through arena transport and Church demand for the **Pale Ascendant Veil** ([session 14](../06_sessions/session_14.md)).
+- **Eggbert:** Befriended a corgi named **Eggbert** ([session 14](../06_sessions/session_14.md)).
+- **Evander:** Party interrogation of **Evander Holyfield** ([session 15](../06_sessions/session_15.md)).
+- **Road:** **Merol** escaped with the Veil; Elliot present for caravan departure from Soulstone ([session 15](../06_sessions/session_15.md)).
+- **Monument / camp:** **Eggbert** reacted to hidden hole; **Merol** met mysterious man beneath tree on watch ([session 16](../06_sessions/session_16.md)).
