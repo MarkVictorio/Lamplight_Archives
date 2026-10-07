@@ -14,7 +14,7 @@ Cold, deliberate arbiter whose rulings rarely favor mercy. Believes law must rem
 - Final legal authority within the Circle of the Spire; rulings settle disputes between houses and define what counts as lawful.
 - House order **the Blackthorne** enforces court decisions and high decrees with absolute discipline.
 
-## From canon
+## From Canon
 
 - Ideological line (historically): favored **binding and permanent removal** of threats over preservation for study or judgment — notably in the sealing of the Pale Ascendant, opposing Valemyr’s wish to preserve the entity for recorded justice.
 - Ongoing tension: **law vs truth** with House Valemyr.

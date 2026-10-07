@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "e458cf5bb79fe770",
+    "type": "split",
+    "children": [
+      {
+        "id": "11a8f07131ec5535",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "600ce1927d9e1683",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_npcs/characters/alistair_ravencroft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "alistair_ravencroft"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e69ad934f97cb0cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "76d4f40fb69c2757",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fec59866dbd551e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6478f27b5010fa72",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c1d90a7c4f516172",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b642199e6286dac9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ef0d35f6661469b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5efb04cba97a1209",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_core/Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Overview"
+            }
+          },
+          {
+            "id": "2f3e9691769d3ca1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_core/Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Overview"
+            }
+          },
+          {
+            "id": "3fe27def1c841e11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9b9744dcf218a2d0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e86c89b8a4843b55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_core/Overview.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "600ce1927d9e1683",
+  "lastOpenFiles": [
+    "03_npcs/characters/caldrick_vane.md",
+    "06_sessions/session_06.md",
+    "03_npcs/deities/nerscylla_veiled_night.md",
+    "03_npcs/deities/pale_ascendant.md",
+    "03_npcs/characters/alistair_ravencroft.md",
+    "00_core/Overview.md",
+    "2026-06-28.md",
+    "Untitled 1.canvas",
+    "09_secrets/caldrick_vane_twist.md",
+    "06_sessions/session_05.md",
+    "06_sessions/session_04.md",
+    "06_sessions/session_03.md",
+    "07_player_characters/ansel.md",
+    "02_factions/Circle of the Spire.md",
+    "Untitled.canvas",
+    "02_factions/Scarlet Bramble.md",
+    "03_npcs/characters/eldros_valgrim.md",
+    "01_world/circle_of_the_spire/ravencroft/README.md",
+    "01_world/Aaldharyn_World_Lore.md",
+    "01_world/mount_embermaw.md",
+    "01_world/The Ascended Pantheon.md",
+    "01_world/Religions of the Kingdom.md"
+  ]
+}
