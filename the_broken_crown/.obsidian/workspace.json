@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_sessions/session_ledger.md",
+                "file": "07_player_characters/elliot_argent_veil_background.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "session_ledger"
+              "title": "elliot_argent_veil_background"
             }
           }
         ]
@@ -183,11 +183,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "600ce1927d9e1683",
   "lastOpenFiles": [
+    "07_player_characters/devon.md",
+    "07_player_characters/elliot_argent_veil_background.md",
+    "07_player_characters/ansel.md",
+    "07_player_characters/exanima.md",
+    "07_player_characters/mal_lucius.md",
     "06_sessions/session_17.md",
     "06_sessions/session_ledger.md",
     "06_sessions/session_02.md",
@@ -197,7 +203,6 @@
     "03_npcs/characters/evander_holyfield.md",
     "03_npcs/characters/nymera.md",
     "02_factions/Order of the Waning Veil.md",
-    "07_player_characters/mal_lucius.md",
     "06_sessions/session_16.md",
     "06_sessions/session_15.md",
     "06_sessions/session_14.md",
@@ -210,11 +215,7 @@
     "06_sessions/session_06.md",
     "03_npcs/deities/nerscylla_veiled_night.md",
     "03_npcs/deities/pale_ascendant.md",
-    "00_core/Overview.md",
-    "2026-06-28.md",
     "Untitled 1.canvas",
-    "09_secrets/caldrick_vane_twist.md",
-    "06_sessions/session_05.md",
     "Untitled.canvas"
   ]
 }
