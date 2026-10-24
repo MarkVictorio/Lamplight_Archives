@@ -42,7 +42,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "king",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +188,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "600ce1927d9e1683",
+  "active": "6478f27b5010fa72",
   "lastOpenFiles": [
     "07_player_characters/devon.md",
     "07_player_characters/elliot_argent_veil_background.md",
